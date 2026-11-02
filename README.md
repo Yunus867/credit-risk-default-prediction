@@ -83,3 +83,35 @@ A real-world financial application would require additional validation, fairness
 ## Conclusion
 
 This project demonstrates how data analytics and machine learning can be applied to a practical financial risk problem, progressing from raw customer data through analysis and feature engineering to predictive modelling and evaluation.
+
+
+
+## Interactive Credit Risk Dashboard — Tableau
+
+Developed and published an interactive Tableau dashboard to visualise credit default patterns across 29,965 customer records.
+
+### Portfolio Overview
+- **Total Customers:** 29,965
+- **Total Defaults:** 6,630
+- **Default Rate:** 22.13%
+- **Average Credit Limit:** NT$167,442
+- **Average Customer Age:** 35.49 years
+
+### Dashboard Features
+- Default versus non-default customer distribution
+- Default rates across credit-limit bands
+- Analysis of repayment delays and default risk
+- Credit utilisation and associated default rates
+- Default rates across customer age groups
+- Interactive age-band filtering across the dashboard
+
+### Key Findings
+Previous repayment delays were strongly associated with higher default rates. Customers with higher credit utilisation also generally experienced higher observed default rates.
+
+These findings demonstrate associations within the dataset rather than causal relationships.
+
+### View the Interactive Dashboard
+
+[Explore the Credit Risk Portfolio Dashboard on Tableau Public](https://public.tableau.com/app/profile/yunus.ali5178/viz/CreditRiskPortfolioDashboard/CreditRiskPortfolioDashboard)
+
+This dashboard complements the Python machine-learning analysis, where Logistic Regression and Random Forest models were developed and evaluated for credit default prediction.
