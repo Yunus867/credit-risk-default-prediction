@@ -114,4 +114,6 @@ These findings demonstrate associations within the dataset rather than causal re
 
 [Explore the Credit Risk Portfolio Dashboard on Tableau Public](https://public.tableau.com/app/profile/yunus.ali5178/viz/CreditRiskPortfolioDashboard/CreditRiskPortfolioDashboard)
 
+![Credit Risk Portfolio Dashboard](images/credit-risk-dashboard.png)
+
 This dashboard complements the Python machine-learning analysis, where Logistic Regression and Random Forest models were developed and evaluated for credit default prediction.
